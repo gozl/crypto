@@ -1,2 +1,3 @@
-# crypto
-Cryptographic utilities
+Crypto Library
+==============
+A collection of cryptographic utilities.
